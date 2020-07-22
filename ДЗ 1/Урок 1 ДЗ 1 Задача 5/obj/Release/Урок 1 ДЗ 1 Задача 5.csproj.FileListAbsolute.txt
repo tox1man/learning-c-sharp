@@ -1,0 +1,6 @@
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\bin\Release\Урок 1 ДЗ 1 Задача 5.exe.config
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\bin\Release\Урок 1 ДЗ 1 Задача 5.exe
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\bin\Release\Урок 1 ДЗ 1 Задача 5.pdb
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\obj\Release\Урок 1 ДЗ 1 Задача 5.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\obj\Release\Урок 1 ДЗ 1 Задача 5.exe
+C:\Users\toxim\source\repos\ДЗ 1\Урок 1 ДЗ 1 Задача 5\obj\Release\Урок 1 ДЗ 1 Задача 5.pdb

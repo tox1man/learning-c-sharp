@@ -1,0 +1,6 @@
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\bin\Release\ДЗ 2.exe.config
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\bin\Release\ДЗ 2.exe
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\bin\Release\ДЗ 2.pdb
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\obj\Release\ДЗ 2.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\obj\Release\ДЗ 2.exe
+C:\Users\toxim\source\repos\ДЗ 2\ДЗ 2\obj\Release\ДЗ 2.pdb

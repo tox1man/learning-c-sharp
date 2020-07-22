@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ 6 Покровский", "ДЗ 6 Покровский\ДЗ 6 Покровский.csproj", "{FF9C2F54-0128-40B0-B968-C188F21954A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ_6_2", "ДЗ_6_2ю1\ДЗ_6_2.csproj", "{232C6A66-276E-4A49-942C-630B20FB423E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ_6_3", "ДЗ_6_3\ДЗ_6_3.csproj", "{F49B5F88-CC60-4ACD-820A-5BF8E308BB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9C2F54-0128-40B0-B968-C188F21954A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9C2F54-0128-40B0-B968-C188F21954A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9C2F54-0128-40B0-B968-C188F21954A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9C2F54-0128-40B0-B968-C188F21954A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232C6A66-276E-4A49-942C-630B20FB423E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232C6A66-276E-4A49-942C-630B20FB423E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232C6A66-276E-4A49-942C-630B20FB423E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232C6A66-276E-4A49-942C-630B20FB423E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49B5F88-CC60-4ACD-820A-5BF8E308BB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49B5F88-CC60-4ACD-820A-5BF8E308BB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49B5F88-CC60-4ACD-820A-5BF8E308BB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49B5F88-CC60-4ACD-820A-5BF8E308BB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC9283C-F5EC-4A52-A393-1C2D443C0E2D}
+	EndGlobalSection
+EndGlobal

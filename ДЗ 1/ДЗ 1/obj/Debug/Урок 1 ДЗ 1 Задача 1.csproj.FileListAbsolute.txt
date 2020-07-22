@@ -1,0 +1,6 @@
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Debug\ДЗ 1.exe.config
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Debug\ДЗ 1.exe
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Debug\ДЗ 1.pdb
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Debug\Урок 1 ДЗ 1 Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Debug\ДЗ 1.exe
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Debug\ДЗ 1.pdb

@@ -1,0 +1,7 @@
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\bin\Debug\ДЗ_6_3.exe.config
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\bin\Debug\ДЗ_6_3.exe
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\bin\Debug\ДЗ_6_3.pdb
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\obj\Debug\ДЗ_6_3.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\obj\Debug\ДЗ_6_3.exe
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\obj\Debug\ДЗ_6_3.pdb
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ_6_3\obj\Debug\ДЗ_6_3.csprojAssemblyReference.cache

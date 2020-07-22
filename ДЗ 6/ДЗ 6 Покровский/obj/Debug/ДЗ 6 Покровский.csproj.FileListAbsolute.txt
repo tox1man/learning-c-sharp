@@ -1,0 +1,14 @@
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.exe.config
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.exe
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.pdb
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.exe
+C:\Users\toxim\source\repos\ДЗ 6 Покровский\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.pdb
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.exe.config
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.exe
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\bin\Debug\ДЗ 6 Покровский.pdb
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.exe
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ 6 Покровский\obj\Debug\ДЗ 6 Покровский.pdb
