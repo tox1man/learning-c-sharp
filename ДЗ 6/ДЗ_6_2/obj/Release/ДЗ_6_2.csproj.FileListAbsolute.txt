@@ -1,0 +1,7 @@
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\bin\Release\ДЗ_6_2ю1.exe.config
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\bin\Release\ДЗ_6_2ю1.exe
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\bin\Release\ДЗ_6_2ю1.pdb
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\obj\Release\ДЗ_6_2.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\obj\Release\ДЗ_6_2.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\obj\Release\ДЗ_6_2ю1.exe
+C:\Users\toxim\source\repos\ДЗ 6\ДЗ_6_2\obj\Release\ДЗ_6_2ю1.pdb

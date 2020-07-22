@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Урок 1 ДЗ 1 Задача 2/1.0.0": {
+        "runtime": {
+          "Урок 1 ДЗ 1 Задача 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Урок 1 ДЗ 1 Задача 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

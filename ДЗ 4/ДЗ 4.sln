@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 1", "ДЗ 4\Задача 1.csproj", "{DE7D00CC-7A2B-4A4B-A19F-C29395309EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 2", "Задача 2\Задача 2.csproj", "{45434B3C-DAC4-4231-A97E-432301DF9894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 3", "Задача 3\Задача 3.csproj", "{E9AF009A-E3C6-4A84-BE95-558530827A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7D00CC-7A2B-4A4B-A19F-C29395309EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7D00CC-7A2B-4A4B-A19F-C29395309EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7D00CC-7A2B-4A4B-A19F-C29395309EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7D00CC-7A2B-4A4B-A19F-C29395309EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45434B3C-DAC4-4231-A97E-432301DF9894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45434B3C-DAC4-4231-A97E-432301DF9894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45434B3C-DAC4-4231-A97E-432301DF9894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45434B3C-DAC4-4231-A97E-432301DF9894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AF009A-E3C6-4A84-BE95-558530827A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AF009A-E3C6-4A84-BE95-558530827A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AF009A-E3C6-4A84-BE95-558530827A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AF009A-E3C6-4A84-BE95-558530827A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4685134B-66B6-44A5-94AA-664532A26623}
+	EndGlobalSection
+EndGlobal

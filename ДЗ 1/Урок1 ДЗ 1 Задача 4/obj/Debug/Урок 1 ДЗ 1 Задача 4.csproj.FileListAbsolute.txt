@@ -1,0 +1,7 @@
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\bin\Debug\Урок1 ДЗ 1 Задача 4.exe.config
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\bin\Debug\Урок1 ДЗ 1 Задача 4.exe
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\bin\Debug\Урок1 ДЗ 1 Задача 4.pdb
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\obj\Debug\Урок 1 ДЗ 1 Задача 4.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\obj\Debug\Урок 1 ДЗ 1 Задача 4.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\obj\Debug\Урок1 ДЗ 1 Задача 4.exe
+C:\Users\toxim\source\repos\ДЗ 1\Урок1 ДЗ 1 Задача 4\obj\Debug\Урок1 ДЗ 1 Задача 4.pdb

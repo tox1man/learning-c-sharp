@@ -1,0 +1,7 @@
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Release\ДЗ 1.exe.config
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Release\ДЗ 1.exe
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\bin\Release\ДЗ 1.pdb
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Release\Урок 1 ДЗ 1 Задача 1.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Release\Урок 1 ДЗ 1 Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Release\ДЗ 1.exe
+C:\Users\toxim\source\repos\ДЗ 1\ДЗ 1\obj\Release\ДЗ 1.pdb
