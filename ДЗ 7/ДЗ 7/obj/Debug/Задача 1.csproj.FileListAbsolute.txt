@@ -1,0 +1,10 @@
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\bin\Debug\ДЗ 7.exe.config
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\bin\Debug\ДЗ 7.exe
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\bin\Debug\ДЗ 7.pdb
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\Задача 1.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\ДЗ_7.Properties.Resources.resources
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\Задача 1.csproj.GenerateResource.cache
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\ДЗ 7.exe
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\ДЗ 7.pdb
+C:\Users\toxim\source\repos\ДЗ 7\ДЗ 7\obj\Debug\ДЗ_7.Doubler.resources

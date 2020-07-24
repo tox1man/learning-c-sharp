@@ -1,0 +1,9 @@
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\bin\Debug\Задача 2.exe.config
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\bin\Debug\Задача 2.exe
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\bin\Debug\Задача 2.pdb
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача_2.Guesser.resources
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача_2.Properties.Resources.resources
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача 2.csproj.GenerateResource.cache
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача 2.exe
+C:\Users\toxim\source\repos\ДЗ 7\Задача 2\obj\Debug\Задача 2.pdb
