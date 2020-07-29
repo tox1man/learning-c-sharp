@@ -1,0 +1,10 @@
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.csprojAssemblyReference.cache
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.Form1.resources
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.Properties.Resources.resources
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.csproj.GenerateResource.cache
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\testTask\testTask\bin\Debug\testTask.exe.config
+C:\Users\toxim\source\repos\testTask\testTask\bin\Debug\testTask.exe
+C:\Users\toxim\source\repos\testTask\testTask\bin\Debug\testTask.pdb
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.exe
+C:\Users\toxim\source\repos\testTask\testTask\obj\Debug\testTask.pdb

@@ -1,0 +1,9 @@
+C:\Users\toxim\source\repos\testTask\testTask\bin\Release\testTask.exe.config
+C:\Users\toxim\source\repos\testTask\testTask\bin\Release\testTask.exe
+C:\Users\toxim\source\repos\testTask\testTask\bin\Release\testTask.pdb
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.Properties.Resources.resources
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.csproj.GenerateResource.cache
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.csproj.CoreCompileInputs.cache
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.exe
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.pdb
+C:\Users\toxim\source\repos\testTask\testTask\obj\Release\testTask.DB.resources
